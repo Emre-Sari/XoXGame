@@ -3,9 +3,7 @@
 <img src="https://img.icons8.com/external-lineal-color-zulfa-mahendra/48/000000/external-tic-tac-toe-halloween-activities-lineal-color-zulfa-mahendra.png" width="50" height="50">
 </p>
 <ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li>Simple XoX Game for practice Kotin Language. </li>
+  <li>I made this app for learning ui components also ı used motion toast in this app.</li>
 </ul>
 
