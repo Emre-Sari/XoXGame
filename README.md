@@ -1,3 +1,2 @@
  # XoXGame
- # aa
-- First item
+<img src="fa-crown.svg" width="50" height="50">
